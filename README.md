@@ -43,7 +43,7 @@ OBS encoding settings:
 
 ## Controller settings
 
-I use the Valve Index with the default grip with adjustment notch on the 2nd slot from the handle. My SaberTailor settings are [here](UserData/SaberTailor.json)
+I use the Valve Index with the default grip with adjustment notch on the 2nd slot from the handle. My SaberTailor settings are [here](UserData/SaberTailor.json).
 
 I prefer to play with the controllers being approximately in the middle row of notes in conserve stammina. Because I'm shorter than Beat Saber's reference height and the height settings appear to be logarithmic, I cannot sufficiently hit my preferred note height using the in-game height settings. I use OVR Advanced Settings to adjust the Y room offset a little bit. Unlike Beat Saber's built in room offset, this does not cause rendering issues with ScoreSaber replays.
 
@@ -51,11 +51,19 @@ I prefer to play with the controllers being approximately in the middle row of n
 
 I use colors from the Catppuccin code editor theme: https://github.com/catppuccin/catppuccin
 
-* Left saber color: ![green](https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/green.png) (171, 233, 179)
-* Right saber color: ![blue](https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/blue.png) (150, 205, 251)
-* Primary environment color: ![lavender](https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/lavender.png) (201, 203, 255)
-* Secondary environment color: ![peach](https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/peach.png) (248, 189, 150)
-* Wall color: ![pink](https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/pink.png) (245, 194, 231)
+| Type                  | Preview     | RGB             |
+|-----------------------|-------------|-----------------|
+| Left saber            | ![green]    | `171, 233, 179` |
+| Right saber           | ![blue]     | `150, 205, 251` |
+| Primary environment   | ![lavender] | `201, 203, 255` |
+| Secondary environment | ![peach]    | `248, 189, 150` |
+| Walls                 | ![pink]     | `245, 194, 231` |
+
+[green]: https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/green.png
+[blue]: https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/blue.png
+[lavender]: https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/lavender.png
+[peach]: https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/peach.png
+[pink]: https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/circles/pink.png
 
 ## Plugins
 
