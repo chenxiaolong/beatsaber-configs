@@ -1,0 +1,16 @@
+{
+  "AuthorName": "chenxiaolong",
+  "AutomaticAuthorName": true,
+  "DefaultImageDisabled": false,
+  "FoldersDisabled": false,
+  "DefaultAllowDuplicates": true,
+  "PlaylistHoverHints": true,
+  "BlurredArt": true,
+  "PlaylistScrollSpeed": 1.0,
+  "HighlightDifficulty": true,
+  "EasterEggs": false,
+  "DownloadDuringGameplay": false,
+  "DriveFullProtection": true,
+  "ShowDownloadIcon": true,
+  "SyncOption": "On"
+}

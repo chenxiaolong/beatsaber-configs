@@ -1,0 +1,15 @@
+{
+  "Version": "3.0.3",
+  "FPFCToggle": {
+    "CameraFOV": 90.0,
+    "MoveSensitivity": 5.0,
+    "MouseSensitivity": 5.0,
+    "ToggleKeyCode": "G",
+    "Ignore": false
+  },
+  "SongControl": {
+    "RestartKeyCode": "F4",
+    "ExitKeyCode": "Escape",
+    "PauseToggleKeyCode": "F2"
+  }
+}

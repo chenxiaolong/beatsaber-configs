@@ -1,0 +1,11 @@
+{
+  "MaxStar": 7.0,
+  "MinStar": 5.0,
+  "Size": 50,
+  "Mode": {
+    "value__": 2
+  },
+  "FilterByAcc": true,
+  "TargetAcc": 92.0,
+  "DebugLogSpam": false
+}

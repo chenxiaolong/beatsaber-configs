@@ -1,0 +1,119 @@
+{
+  "majorVersion": 3,
+  "minorVersion": 2,
+  "patchVersion": 0,
+  "isDefaultConfig": false,
+  "displayMode": "numeric",
+  "doIntermediateUpdates": true,
+  "timeDependencyDecimalPrecision": 1,
+  "timeDependencyDecimalOffset": 2,
+  "judgments": [
+    {
+      "threshold": 115,
+      "text": "%B=115%A%n%s",
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 114,
+      "text": "<size=80%>%B=114%A</size>%n%s",
+      "color": [
+        1.0,
+        0.6,
+        1.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 110,
+      "text": "<size=80%>%B>=110%A</size>%n%s",
+      "color": [
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 109,
+      "text": "<size=80%>%B=109%A</size>%n%s",
+      "color": [
+        1.0,
+        0.980392158,
+        0.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 101,
+      "text": "<size=80%>%B>100%A</size>%n%s",
+      "color": [
+        1.0,
+        0.6,
+        0.0,
+        1.0
+      ],
+      "fade": true
+    },
+    {
+      "threshold": 100,
+      "text": "<size=80%>%B=100%A</size>%n%s",
+      "color": [
+        1.0,
+        0.2901961,
+        0.0,
+        1.0
+      ],
+      "fade": false
+    },
+    {
+      "threshold": 0,
+      "text": "<size=80%>%B<100%A</size>%n%s",
+      "color": [
+        0.5,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "fade": true
+    }
+  ],
+  "beforeCutAngleJudgments": [
+    {
+      "threshold": 70,
+      "text": "+"
+    },
+    {
+      "threshold": 0,
+      "text": " "
+    }
+  ],
+  "accuracyJudgments": [
+    {
+      "threshold": 15,
+      "text": " + "
+    },
+    {
+      "threshold": 0,
+      "text": " "
+    }
+  ],
+  "afterCutAngleJudgments": [
+    {
+      "threshold": 30,
+      "text": " + "
+    },
+    {
+      "threshold": 0,
+      "text": " "
+    }
+  ]
+}

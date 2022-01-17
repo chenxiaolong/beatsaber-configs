@@ -1,0 +1,16 @@
+{
+  "scenes": {
+    "Menu": [],
+    "MultiplayerMenu": [],
+    "Playing": [],
+    "Playing360": [],
+    "PlayingModmap": [],
+    "PlayingMulti": [],
+    "Replay": [],
+    "FPFC": [],
+    "SpectatingMulti": []
+  },
+  "customScenes": {},
+  "customSceneBindings": {},
+  "autoswitchFromCustom": true
+}

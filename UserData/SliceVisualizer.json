@@ -1,0 +1,67 @@
+{
+  "Enabled": true,
+  "SliceWidth": 0.05,
+  "ScoreScaling": "Linear",
+  "ScoreScaleMin": 0.05,
+  "ScoreScaleMax": 0.5,
+  "ScoreScale": 1.0,
+  "MissedAreaColor": [
+    0.0,
+    0.0,
+    0.0,
+    0.5
+  ],
+  "SliceColor": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "ArrowColor": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "BadDirectionColor": [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "CenterColor": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "UseCustomColors": false,
+  "LeftColor": [
+    0.659,
+    0.125,
+    0.125,
+    1.0
+  ],
+  "RightColor": [
+    0.125,
+    0.392,
+    0.659,
+    1.0
+  ],
+  "CubeLifetime": 1.0,
+  "PopEnd": 0.1,
+  "FadeStart": 0.5,
+  "PopDistance": 0.5,
+  "PositionFromCubeTransform": true,
+  "RotationFromCubeTransform": true,
+  "CubeScale": 0.7,
+  "CenterScale": 0.2,
+  "ArrowScale": 0.6,
+  "UIOpacity": 0.5,
+  "CanvasOffset": {
+    "x": 0.0,
+    "y": -5.0,
+    "z": 10.0
+  },
+  "CanvasScale": 0.7
+}

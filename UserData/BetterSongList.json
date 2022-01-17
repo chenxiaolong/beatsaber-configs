@@ -1,0 +1,19 @@
+{
+  "SettingsSeenInVersion": "0.2.6.0",
+  "SortAsc": false,
+  "LastSort": "Download Date",
+  "LastFilter": "All",
+  "LastSong": "custom_level_01BDA6C582867AD1F9664D1382488D7FA925ED6B",
+  "LastCategory": "CustomSongs",
+  "LastPack": "Custom Levels",
+  "AllowWipDelete": false,
+  "ReselectLastSong": true,
+  "AutoFilterUnowned": true,
+  "ShowWarningIfMapHasCrouchWallsBecauseMappersThinkSprinklingThemInRandomlyIsFun": true,
+  "ClearFiltersOnPlaylistSelect": true,
+  "ModBasegameSearch": true,
+  "ShowMapJDInsteadOfOffset": true,
+  "ExtendSongsScrollbar": true,
+  "AccuracyMultiplier": 1.0,
+  "EnableAlphabetScrollbar": true
+}

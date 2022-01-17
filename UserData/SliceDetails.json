@@ -1,0 +1,26 @@
+{
+  "ResultsUIPosition": {
+    "x": -3.666397,
+    "y": 2.214412,
+    "z": 1.787773
+  },
+  "ResultsUIRotation": {
+    "x": 352.3271,
+    "y": 290.965,
+    "z": 0.7628344
+  },
+  "PauseUIPosition": {
+    "x": -3.009932,
+    "y": 1.422216,
+    "z": 0.1275557
+  },
+  "PauseUIRotation": {
+    "x": 0.9301421,
+    "y": 271.6366,
+    "z": 0.4265506
+  },
+  "ShowInPauseMenu": true,
+  "ShowInCompletionScreen": true,
+  "ShowHandle": false,
+  "TrueCutOffsets": true
+}

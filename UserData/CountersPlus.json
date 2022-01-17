@@ -1,0 +1,149 @@
+{
+  "Enabled": true,
+  "HideCombo": false,
+  "HideMultiplier": false,
+  "ComboOffset": 0.2,
+  "MultiplierOffset": 0.4,
+  "ItalicText": false,
+  "AprilFoolsTomfoolery": true,
+  "HUDConfig": {
+    "MainCanvasSettings": {
+      "Name": "Main",
+      "ParentedToBaseGameHUD": true,
+      "IgnoreNoTextAndHUDOption": false,
+      "Size": 10.0,
+      "PositionScale": 10.0,
+      "Pos_X": 0.0,
+      "Pos_Y": 0.0,
+      "Pos_Z": 7.0,
+      "MatchBaseGameHUDDepth": true,
+      "Rot_X": 0.0,
+      "Rot_Y": 0.0,
+      "Rot_Z": 0.0,
+      "AttachHUDToCamera": false,
+      "AttachedCamera": "Main Camera",
+      "IgnoreShockwaveEffect": true,
+      "CurveRadius": 0.0,
+      "DistanceModifier": 1.0
+    },
+    "OtherCanvasSettings": []
+  },
+  "MissedConfig": {
+    "Enabled": false,
+    "Position": "BelowCombo",
+    "Distance": 0,
+    "CountBadCuts": true,
+    "CanvasID": -1
+  },
+  "NoteConfig": {
+    "Enabled": false,
+    "Position": "BelowCombo",
+    "Distance": 1,
+    "ShowPercentage": false,
+    "DecimalPrecision": 2,
+    "CanvasID": -1
+  },
+  "ProgressConfig": {
+    "Enabled": false,
+    "Position": "BelowMultiplier",
+    "Distance": 0,
+    "Mode": "BaseGame",
+    "ProgressTimeLeft": false,
+    "IncludeRing": false,
+    "CanvasID": -1
+  },
+  "ScoreConfig": {
+    "Enabled": false,
+    "Position": "BelowCombo",
+    "Distance": 1,
+    "Mode": "Original",
+    "DecimalPrecision": 2,
+    "DisplayRank": true,
+    "CustomRankColors": false,
+    "SSColor": "#00FFFF",
+    "SColor": "#FFFFFF",
+    "AColor": "#00FF00",
+    "BColor": "#FFEB04",
+    "CColor": "#FF8000",
+    "DColor": "#FF0000",
+    "EColor": "#FF0000",
+    "CanvasID": -1
+  },
+  "PBConfig": {
+    "Enabled": false,
+    "Position": "BelowMultiplier",
+    "Distance": 1,
+    "Mode": "Absolute",
+    "BetterColor": "#FF0000",
+    "DefaultColor": "#FFA500",
+    "DecimalPrecision": 2,
+    "TextSize": 2,
+    "UnderScore": true,
+    "HideFirstScore": false,
+    "CanvasID": -1
+  },
+  "SpeedConfig": {
+    "Enabled": false,
+    "Position": "BelowMultiplier",
+    "Distance": 2,
+    "DecimalPrecision": 2,
+    "Mode": "Average",
+    "CanvasID": -1
+  },
+  "CutConfig": {
+    "Enabled": true,
+    "Position": "BelowCombo",
+    "Distance": 2,
+    "SeparateSaberCounts": true,
+    "SeparateCutValues": true,
+    "AveragePrecision": 1,
+    "CanvasID": -1
+  },
+  "SpinometerConfig": {
+    "Enabled": false,
+    "Position": "AboveMultiplier",
+    "Distance": 0,
+    "Mode": "Highest",
+    "CanvasID": -1
+  },
+  "NotesLeftConfig": {
+    "Enabled": true,
+    "Position": "BelowMultiplier",
+    "Distance": 1,
+    "LabelAboveCount": false,
+    "CanvasID": -1
+  },
+  "FailsConfig": {
+    "Enabled": false,
+    "Position": "AboveCombo",
+    "Distance": 0,
+    "ShowRestartsInstead": false,
+    "CanvasID": -1
+  },
+  "CustomCounters": {
+    "PP Counter": {
+      "Enabled": true,
+      "Position": "AboveMultiplier",
+      "Distance": -1,
+      "CanvasID": -1
+    },
+    "Time Dependendence Counter": {
+      "Enabled": true,
+      "Position": "AboveCombo",
+      "Distance": 0,
+      "CanvasID": -1
+    },
+    "FPS Counter": {
+      "Enabled": false,
+      "Position": "BelowMultiplier",
+      "Distance": 2,
+      "CanvasID": -1
+    },
+    "FC Percentage": {
+      "Enabled": true,
+      "Position": "BelowMultiplier",
+      "Distance": 0,
+      "CanvasID": -1
+    }
+  }
+}

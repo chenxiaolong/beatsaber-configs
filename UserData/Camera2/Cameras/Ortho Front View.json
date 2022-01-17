@@ -1,0 +1,68 @@
+{
+  "visibleObjects": {
+    "Walls": "Visible",
+    "Debris": false,
+    "UI": false,
+    "Avatar": "Hidden",
+    "Floor": false,
+    "CutParticles": false,
+    "Notes": "Visible",
+    "EverythingElse": false,
+    "Sabers": true
+  },
+  "type": "Positionable",
+  "worldCamVisibility": "Hidden",
+  "previewScreenSize": 0.3,
+  "worldCamUnderScreen": true,
+  "FOV": 60.0,
+  "layer": 3,
+  "antiAliasing": 2,
+  "renderScale": 1.3,
+  "orthographic": true,
+  "farZ": 10.0,
+  "viewRect": {
+    "x": 0.859,
+    "y": 0.2715,
+    "width": 0.141,
+    "height": 0.271,
+    "locked": true
+  },
+  "Multiplayer": {
+    "followSpectatorPlattform": true
+  },
+  "ModmapExtensions": {
+    "moveWithMap": true,
+    "autoOpaqueWalls": false,
+    "autoHideHUD": false
+  },
+  "Follow360": {
+    "enabled": true,
+    "smoothing": 10.0
+  },
+  "VMCProtocol": {
+    "mode": "Disabled",
+    "destination": "127.0.0.1:39540"
+  },
+  "FPSLimiter": {
+    "fpsLimit": 0
+  },
+  "PostProcessing": {
+    "transparencyThreshold": 50.0,
+    "forceDepthTexture": false
+  },
+  "targetPos": {
+    "x": 0.0,
+    "y": 1.5,
+    "z": -2.0
+  },
+  "targetRot": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "MovementScript": {
+    "scriptList": [],
+    "fromOrigin": true,
+    "enableInMenu": false
+  }
+}

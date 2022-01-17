@@ -1,0 +1,57 @@
+{
+  "fileVersion": 6,
+  "disableScoreSaber": false,
+  "showLocalPlayerRank": true,
+  "showScorePP": true,
+  "showStatusText": true,
+  "saveLocalReplays": true,
+  "enableCountryLeaderboards": true,
+  "replayCameraFOV": 90.0,
+  "replayCameraXOffset": 0.0,
+  "replayCameraYOffset": 0.0,
+  "replayCameraZOffset": -0.8,
+  "replayCameraXRotation": 0.0,
+  "replayCameraYRotation": 0.0,
+  "replayCameraZRotation": 0.0,
+  "enableReplayFrameRenderer": false,
+  "replayFramePath": "Z:\\Example\\Directory\\",
+  "hideNAScoresFromLeaderboard": false,
+  "hasClickedScoreSaberLogo": true,
+  "hasOpenedReplayUI": true,
+  "leftHandedReplayUI": false,
+  "lockedReplayUIMode": false,
+  "spectatorPositions": [
+    {
+      "name": "Main",
+      "spectatorPose": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -2.0
+      }
+    },
+    {
+      "name": "Bird's Eye",
+      "spectatorPose": {
+        "x": 0.0,
+        "y": 4.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Left",
+      "spectatorPose": {
+        "x": -3.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Right",
+      "spectatorPose": {
+        "x": 3.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ]
+}

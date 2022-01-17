@@ -1,0 +1,20 @@
+{
+  "Enabled": true,
+  "FirstLaunch": false,
+  "EnableEvents": true,
+  "OverrideSongSaber": true,
+  "RandomSaber": false,
+  "AnimateSaberSelection": true,
+  "TrailWidthMax": 1.0,
+  "GlobalSaberWidthMax": 3.0,
+  "ShowAdvancedTrailSettings": false,
+  "ShowDownloadableSabers": true,
+  "AutoUpdateTrail": true,
+  "ShowGameplaySettingsButton": true,
+  "ControlTrailWithThumbstick": true,
+  "SaberAudioVolumeMultiplier": 1.0,
+  "SpecialBackground": true,
+  "ReloadOnSaberUpdate": false,
+  "AssetType": "None",
+  "Favorites": []
+}

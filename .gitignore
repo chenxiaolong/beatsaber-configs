@@ -1,0 +1,87 @@
+# Executables, libraries, and debugging symbols
+*.config
+*.exe
+*.dll
+*.pdb
+
+# Game files
+/Beat Saber_Data/
+/DLC/
+/IPA/
+/IPA.runtimeconfig.json
+/Libs/
+/MonoBleedingEdge/
+
+# Plugins
+/Incompatible Plugins/
+/Old * Plugins/
+/Plugins/
+
+# Game state
+/CampaignMapUnlocks.json
+/Logs/
+/UserData/favoriteSongs.cfg
+/UserData/HitSoundChanger.json
+/UserData/HitSoundChanger/
+/UserData/PPCounter/
+/UserData/reviewedSongs.json
+/UserData/Saber Factory/*/
+/UserData/SaberFactory/
+/UserData/ScoreSaber/Replays/
+/UserData/SongCore/*
+!/UserData/SongCore/SongCore.json
+/UserData/SongDetailsCache.*
+/UserData/SongPlayData.bak
+/UserData/SongPlayData.json
+/UserData/votedSongs.json
+
+# Levels and other downloaded assets
+/CustomCampaigns/
+/CustomNotes/
+/CustomPlatforms/
+/CustomSabers/
+/Playlists/
+
+# Config backups
+/UserData/SliceVisualizer.json.orig
+
+# Old, migrated-from configs
+/UserData/CountersPlus.ini
+
+# Configs for plugins I no longer use
+/song_browser_settings.xml
+/song_browser_settings.xml.bak
+/UserData/BS_PP_BOOSTER.ini
+/UserData/BeatSaberPlus.ini
+/UserData/BeatSaverDownloader.ini
+/UserData/CameraPlus.ini
+/UserData/CameraPlus/
+/UserData/Custom Platforms.json
+/UserData/Custom Sabers.json
+/UserData/Custom UI.json
+/UserData/CustomNotes.json
+/UserData/CustomWalls.json
+/UserData/EasyOffset.json
+/UserData/EnhancedFilterDetailsCache.json
+/UserData/EnhancedSearchAndFilters.ini
+/UserData/FPS Counter.json
+/UserData/ModelDownloader.json
+/UserData/MultiplayerExtensions.json
+/UserData/NalulunaStatistics.json
+/UserData/PP Helper.ini
+/UserData/PP Helper/
+/UserData/Perfection Display.ini
+/UserData/Perfection Display.ini.bak
+/UserData/PerformanceMeter.json
+/UserData/PracticePlugin.ini
+/UserData/RandomSongPlayer.json
+/UserData/RumbleMod.json
+/UserData/ServerBrowser.json
+/UserData/Song Browser.json
+/UserData/Song Refresh Button.json
+/UserData/SongChartVisualizer.json
+/UserData/SongPlayHistory.json
+/UserData/SpeedyPractice.json
+/UserData/SwingMeterConfig.json
+/UserData/The Trash Man.ini
+/UserData/YUR Fit Calorie Tracker.json

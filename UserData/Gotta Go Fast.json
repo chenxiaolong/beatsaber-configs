@@ -1,0 +1,10 @@
+{
+  "SongStartTransition": 0.1,
+  "SongRestartTransition": 0.1,
+  "SongPassFailTransition": 0.6,
+  "SongFailDisplayTime": 0.5,
+  "MaxFadeInTransitionTime": 0.4,
+  "RemoveHealthWarning": true,
+  "EnableOptimizations": true,
+  "GcSkips": 10
+}
