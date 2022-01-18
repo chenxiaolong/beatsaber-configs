@@ -1,0 +1,53 @@
+{
+  "CounterSettings": {
+    "PercentageMode": {
+      "value__": 0
+    },
+    "EnableLabel": {
+      "value__": 1
+    },
+    "DecimalPrecision": 2,
+    "SplitPercentageUseSaberColorScheme": true,
+    "KeepTrailingZeros": true,
+    "Advanced": {
+      "CounterOffset": -0.35,
+      "LabelAboveCounterTextOffset": 0.32,
+      "LabelAboveCounterTextSize": 0.75,
+      "PercentageSize": 0.65,
+      "PercentageTotalAndSplitLineHeight": -0.55,
+      "LabelAboveCounterText": "FC Percent",
+      "LabelPrefixText": "FC : ",
+      "PercentageSplitSaberAPrefixText": "",
+      "PercentageSplitSaberBPrefixText": ""
+    }
+  },
+  "ResultsSettings": {
+    "PercentageTotalMode": {
+      "value__": 1
+    },
+    "PercentageSplitMode": {
+      "value__": 1
+    },
+    "ScoreTotalMode": {
+      "value__": 1
+    },
+    "EnableLabel": {
+      "value__": 0
+    },
+    "DecimalPrecision": 2,
+    "EnableScorePercentageDifference": true,
+    "SplitPercentageUseSaberColorScheme": true,
+    "KeepTrailingZeros": false,
+    "Advanced": {
+      "ScorePrefixText": "FC : ",
+      "PercentagePrefixText": "FC : ",
+      "PercentageTotalPrefixText": "",
+      "PercentageSplitSaberAPrefixText": "",
+      "PercentageSplitSaberBPrefixText": "",
+      "DifferencePositiveColor": "#00B300",
+      "DifferenceNegativeColor": "#FF0000",
+      "ApplyColorsToScorePercentageModDifference": false
+    }
+  },
+  "IgnoreMultiplier": false
+}
