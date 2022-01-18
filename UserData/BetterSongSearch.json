@@ -1,3 +1,4 @@
 {
-  "returnToBssFromSolo": false
+  "returnToBssFromSolo": false,
+  "smallerFontSize": false
 }
