@@ -21,8 +21,6 @@
 /CampaignMapUnlocks.json
 /Logs/
 /UserData/favoriteSongs.cfg
-/UserData/HitSoundChanger.json
-/UserData/HitSoundChanger/
 /UserData/PPCounter/
 /UserData/reviewedSongs.json
 /UserData/Saber Factory/*/
@@ -33,6 +31,7 @@
 /UserData/SongDetailsCache.*
 /UserData/SongPlayData.bak
 /UserData/SongPlayData.json
+/UserData/SoundReplacer/
 /UserData/votedSongs.json
 
 # Levels and other downloaded assets
@@ -65,6 +64,8 @@
 /UserData/EnhancedFilterDetailsCache.json
 /UserData/EnhancedSearchAndFilters.ini
 /UserData/FPS Counter.json
+/UserData/HitSoundChanger.json
+/UserData/HitSoundChanger/
 /UserData/ModelDownloader.json
 /UserData/MultiplayerExtensions.json
 /UserData/NalulunaStatistics.json

@@ -1,0 +1,8 @@
+{
+  "GoodHitSound": "Bandoot_HitSound.ogg",
+  "BadHitSound": "Bandoot_BadHitSound.ogg",
+  "MenuMusic": "Default",
+  "ClickSound": "Default",
+  "SuccessSound": "Default",
+  "FailSound": "Default"
+}

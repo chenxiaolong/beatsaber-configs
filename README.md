@@ -90,7 +90,6 @@ I use colors from the Catppuccin code editor theme: https://github.com/catppucci
 * [FC-Percentage](https://github.com/ChirpyMisha/FC-Percentage)
 * [Heck](https://github.com/Aeroluna/Heck)
 * [HitScoreVisualizer](https://github.com/ErisApps/HitScoreVisualizer)
-* [HitSoundChanger](https://github.com/SamuelTulach/HitSoundChanger)
 * [IForgor](https://github.com/ckosmic/IForgor)
 * [JDFixer](https://github.com/zeph-yr/JDFixer)
 * [MappingExtensions](https://github.com/Kylemc1413/MappingExtensions)
@@ -108,6 +107,7 @@ I use colors from the Catppuccin code editor theme: https://github.com/catppucci
 * [SliceDetails](https://github.com/ckosmic/SliceDetails)
 * [SongCore](https://github.com/Kylemc1413/SongCore)
 * [SongPlayHistoryContinued](https://github.com/Shadnix-was-taken/BeatSaber-SongPlayHistoryContinued)
+* [SoundReplacer](https://github.com/SamuelTulach/SoundReplacer)
 * [TakeMeToResults](https://github.com/rithik-b/TakeMeToResults)
 * [Time-Dependence-Counter](https://github.com/PulseLane/Time-Dependence-Counter)
 
