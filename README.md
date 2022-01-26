@@ -73,12 +73,14 @@ I use colors from the Catppuccin code editor theme: https://github.com/catppucci
 * [BeatSaber-SaberTailor](https://github.com/Shadnix-was-taken/BeatSaber-SaberTailor)
 * [BeatSaber_BetterSongList](https://github.com/kinsi55/BeatSaber_BetterSongList)
 * [BeatSaber_BetterSongSearch](https://github.com/kinsi55/BeatSaber_BetterSongSearch)
+* [BeatSaber_ControllerSettingsHelper](https://github.com/kinsi55/BeatSaber_ControllerSettingsHelper)
 * [BeatSaber_SongDetails](https://github.com/kinsi55/BeatSaber_SongDetails)
 * [BeatSaber_Tweaks55](https://github.com/kinsi55/BeatSaber_Tweaks55)
 * [BeatSaberMarkupLanguage](https://github.com/monkeymanboy/BeatSaberMarkupLanguage)
 * [BeatSaverDownloader](https://github.com/Top-Cat/BeatSaverDownloader)
 * [BeatSaverSharper](https://github.com/Auros/BeatSaverSharper)
 * [BeatSaverVoting](https://github.com/Top-Cat/BeatSaverVoting)
+* [BeatSaviorData](https://github.com/Mystogan98/BeatSaviorData)
 * [BSIndexHapticFix](https://github.com/hardcpp/BSIndexHapticFix)
 * [BSDataPuller](https://github.com/kOFReadie/BSDataPuller)
 * [Chroma](https://github.com/Aeroluna/Chroma)
@@ -113,6 +115,4 @@ I use colors from the Catppuccin code editor theme: https://github.com/catppucci
 
 Not yet compatible with 1.19.0:
 
-* [BeatSaviorData](https://github.com/Mystogan98/BeatSaviorData)
 * [BeatSaber-SliceVisualizer](https://github.com/m1el/BeatSaber-SliceVisualizer)
-* [BeatSaber_ControllerSettingsHelper](https://github.com/kinsi55/BeatSaber_ControllerSettingsHelper)
