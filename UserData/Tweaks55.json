@@ -1,6 +1,13 @@
 {
+  "wallOutlineColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
   "disableDebris": true,
   "disableSliceScore": false,
+  "transparentWalls": false,
   "disableComboBreakEffect": false,
   "disableWallRumbleAndParticles": false,
   "disableSaberClash": false,
@@ -8,6 +15,7 @@
   "disableCampaignFireworks": false,
   "disableCutParticles": false,
   "disableGlobalParticles": false,
+  "disableBombExplosion": false,
   "disableHealthWarning": false,
   "basegameFulltextSearch": false,
   "keepGameSettingsOnCancel": false,
@@ -15,7 +23,6 @@
   "disableFakeWallBloom": false,
   "disableBeatLines": false,
   "staticLightsToggle": false,
-  "disableIngameMapEditor": false,
   "disableRawScore": false,
   "menuLightColor": {
     "r": 0.0,
@@ -24,12 +31,13 @@
     "a": 0.0
   },
   "enableCustomRumble": false,
-  "cutRumbleStrength": 0.075,
-  "cutRumbleDuration": 0.08,
   "bombColor": {
     "r": 0.6048908,
     "g": 0.6048908,
     "b": 0.6048908,
     "a": 1.0
-  }
+  },
+  "cutRumbleStrength": 0.075,
+  "rumbleChainElementsStrength": 1.0,
+  "rumbleArcsStrength": 1.0
 }

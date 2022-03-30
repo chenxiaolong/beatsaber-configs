@@ -1,4 +1,7 @@
 {
   "returnToBssFromSolo": false,
-  "smallerFontSize": false
+  "smallerFontSize": false,
+  "downloadUrlOverride": "",
+  "coverUrlOverride": "",
+  "apiUrlOverride": ""
 }

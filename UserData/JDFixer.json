@@ -1,17 +1,21 @@
 {
-  "enabled": true,
-  "jumpDistance": 19.4,
+  "enabled": false,
+  "jumpDistance": 18.88,
   "minJumpDistance": 15,
   "maxJumpDistance": 35,
   "usePreferredJumpDistanceValues": false,
   "preferredValues": [],
+  "reactionTime": 500.0,
+  "minReactionTime": 200,
+  "maxReactionTime": 2000,
+  "usePreferredReactionTimeValues": false,
+  "rt_preferredValues": [],
+  "slider_setting": 0,
+  "pref_selected": 2,
   "upper_threshold": 100.0,
   "lower_threshold": 1.0,
   "use_heuristic": false,
-  "rt_enabled": true,
-  "rt_preferredValues": [],
-  "minReactionTime": 200,
-  "maxReactionTime": 2000,
   "rt_display_enabled": true,
-  "pref_selected": 2
+  "legacy_display_enabled": false,
+  "af_enabled": true
 }

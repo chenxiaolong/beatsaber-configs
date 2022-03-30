@@ -15,5 +15,6 @@
   "ShowMapJDInsteadOfOffset": true,
   "ExtendSongsScrollbar": true,
   "AccuracyMultiplier": 1.0,
-  "EnableAlphabetScrollbar": true
+  "EnableAlphabetScrollbar": true,
+  "AllowPluginSortsAndFilters": true
 }

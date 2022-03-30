@@ -1,11 +1,12 @@
 {
-  "Version": "3.0.3",
+  "Version": "3.0.5",
   "FPFCToggle": {
     "CameraFOV": 90.0,
     "MoveSensitivity": 5.0,
     "MouseSensitivity": 5.0,
     "ToggleKeyCode": "G",
-    "Ignore": false
+    "Ignore": false,
+    "LockViewOnDisable": false
   },
   "SongControl": {
     "RestartKeyCode": "F4",

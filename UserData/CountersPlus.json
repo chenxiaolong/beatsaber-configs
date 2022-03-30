@@ -97,6 +97,8 @@
     "SeparateSaberCounts": true,
     "SeparateCutValues": true,
     "AveragePrecision": 1,
+    "IncludeArcs": false,
+    "IncludeChains": false,
     "CanvasID": -1
   },
   "SpinometerConfig": {

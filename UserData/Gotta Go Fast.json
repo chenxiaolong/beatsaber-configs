@@ -6,5 +6,6 @@
   "MaxFadeInTransitionTime": 0.4,
   "RemoveHealthWarning": true,
   "EnableOptimizations": true,
+  "OptimizationsAlternativeMode": false,
   "GcSkips": 10
 }

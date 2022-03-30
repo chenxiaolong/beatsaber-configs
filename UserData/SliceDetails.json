@@ -22,5 +22,7 @@
   "ShowInPauseMenu": true,
   "ShowInCompletionScreen": true,
   "ShowHandle": false,
-  "TrueCutOffsets": true
+  "TrueCutOffsets": true,
+  "CountArcs": true,
+  "CountChains": true
 }
