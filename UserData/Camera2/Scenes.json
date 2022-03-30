@@ -1,14 +1,44 @@
 {
   "scenes": {
-    "Menu": [],
-    "MultiplayerMenu": [],
-    "Playing": [],
-    "Playing360": [],
-    "PlayingModmap": [],
-    "PlayingMulti": [],
-    "Replay": [],
-    "FPFC": [],
-    "SpectatingMulti": []
+    "Menu": [
+      "Main"
+    ],
+    "MultiplayerMenu": [
+      "Main"
+    ],
+    "Playing": [
+      "Side View",
+      "Main",
+      "Ortho Front View"
+    ],
+    "Playing360": [
+      "Ortho Front View",
+      "Side View",
+      "Main"
+    ],
+    "PlayingModmap": [
+      "Main",
+      "Side View",
+      "Ortho Front View"
+    ],
+    "PlayingMulti": [
+      "Ortho Front View",
+      "Side View",
+      "Main"
+    ],
+    "Replay": [
+      "Ortho Front View",
+      "Side View",
+      "Main"
+    ],
+    "FPFC": [
+      "Ortho Front View",
+      "Side View",
+      "Main"
+    ],
+    "SpectatingMulti": [
+      "Main"
+    ]
   },
   "customScenes": {},
   "customSceneBindings": {},
