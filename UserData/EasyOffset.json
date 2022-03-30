@@ -1,0 +1,49 @@
+{
+  "ConfigVersion": "2.0",
+  "Enabled": true,
+  "HideControllers": true,
+  "MinimalWarningLevel": "Everything",
+  "AllowRoomXChange": true,
+  "AllowRoomYChange": true,
+  "AllowRoomZChange": true,
+  "UILock": false,
+  "AssignedButton": "Grip Button",
+  "ControllerType": "Valve Index",
+  "UseFreeHand": false,
+  "LeftSaberPivotPosition": {
+    "x": -2.2,
+    "y": -1.0,
+    "z": -8.6
+  },
+  "LeftSaberRotationEuler": {
+    "x": 9.999957,
+    "y": 5.499979,
+    "z": -0.000004226354
+  },
+  "LeftSaberZOffset": 11.0,
+  "LeftSaberHasReference": false,
+  "LeftSaberReference": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 1.0
+  },
+  "RightSaberPivotPosition": {
+    "x": 2.2,
+    "y": -1.0,
+    "z": -8.6
+  },
+  "RightSaberRotationEuler": {
+    "x": 9.999995,
+    "y": -5.5,
+    "z": 0.000002384097
+  },
+  "RightSaberZOffset": 11.0,
+  "RightSaberHasReference": false,
+  "RightSaberReference": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 1.0
+  }
+}

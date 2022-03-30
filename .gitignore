@@ -41,7 +41,11 @@
 /CustomSabers/
 /Playlists/
 
+# Config presets
+/UserData/EasyOffset/Presets/
+
 # Config backups
+/UserData/EasyOffset/Backups/
 /UserData/SliceVisualizer.json.orig
 
 # Old, migrated-from configs
@@ -60,7 +64,6 @@
 /UserData/Custom UI.json
 /UserData/CustomNotes.json
 /UserData/CustomWalls.json
-/UserData/EasyOffset.json
 /UserData/EnhancedFilterDetailsCache.json
 /UserData/EnhancedSearchAndFilters.ini
 /UserData/FPS Counter.json
@@ -77,6 +80,8 @@
 /UserData/PracticePlugin.ini
 /UserData/RandomSongPlayer.json
 /UserData/RumbleMod.json
+/UserData/SaberTailor.json
+/UserData/SaberTailor.*.json
 /UserData/ServerBrowser.json
 /UserData/Song Browser.json
 /UserData/Song Refresh Button.json

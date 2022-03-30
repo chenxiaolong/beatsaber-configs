@@ -83,6 +83,7 @@ I use colors from the Catppuccin code editor theme: https://github.com/catppucci
 * [CountersPlus](https://github.com/Caeden117/CountersPlus)
 * [CS_BeatSaber_Camera2](https://github.com/kinsi55/CS_BeatSaber_Camera2)
 * [CS_BeatSaber_GottaGoFast](https://github.com/kinsi55/CS_BeatSaber_GottaGoFast)
+* [EasyOffset](https://github.com/Reezonate/EasyOffset)
 * [IForgor](https://github.com/ckosmic/IForgor)
 * [JDFixer](https://github.com/zeph-yr/JDFixer)
 * [MappingExtensions](https://github.com/Kylemc1413/MappingExtensions)
