@@ -16,9 +16,9 @@
     "z": -8.6
   },
   "LeftSaberRotationEuler": {
-    "x": 9.999957,
-    "y": 5.499979,
-    "z": -0.000004226354
+    "x": 8.999947,
+    "y": 5.499966,
+    "z": -0.000004997405
   },
   "LeftSaberZOffset": 11.0,
   "LeftSaberHasReference": false,
@@ -34,9 +34,9 @@
     "z": -8.6
   },
   "RightSaberRotationEuler": {
-    "x": 9.999995,
+    "x": 9.000002,
     "y": -5.5,
-    "z": 0.000002384097
+    "z": 0.000002323118
   },
   "RightSaberZOffset": 11.0,
   "RightSaberHasReference": false,
