@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "jumpDistance": 18.88,
   "minJumpDistance": 15,
   "maxJumpDistance": 35,

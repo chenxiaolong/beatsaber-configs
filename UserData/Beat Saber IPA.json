@@ -22,7 +22,10 @@
     "HMLib.dll",
     "HMUI.dll",
     "HMRendering.dll",
-    "VRUI.dll"
+    "VRUI.dll",
+    "BeatmapCore.dll",
+    "GameplayCore.dll",
+    "HMLibAttributes.dll"
   ],
-  "LastGameVersion": "1.20.0"
+  "LastGameVersion": "1.22.0"
 }

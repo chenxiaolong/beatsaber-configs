@@ -2,6 +2,7 @@
   "Enabled": true,
   "HideCombo": false,
   "HideMultiplier": false,
+  "HideMultiplayerRank": false,
   "ComboOffset": 0.2,
   "MultiplierOffset": 0.4,
   "ItalicText": false,
@@ -120,6 +121,12 @@
     "Position": "AboveCombo",
     "Distance": 0,
     "ShowRestartsInstead": false,
+    "CanvasID": -1
+  },
+  "MultiplayerRankConfig": {
+    "Enabled": false,
+    "Position": "AboveHighway",
+    "Distance": 0,
     "CanvasID": -1
   },
   "CustomCounters": {

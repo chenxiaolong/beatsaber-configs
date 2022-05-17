@@ -20,6 +20,7 @@
 # Game state
 /CampaignMapUnlocks.json
 /Logs/
+/UserData/BeatLeader/Replays/
 /UserData/favoriteSongs.cfg
 /UserData/PPCounter/
 /UserData/reviewedSongs.json

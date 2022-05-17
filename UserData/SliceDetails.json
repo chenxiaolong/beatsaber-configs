@@ -24,5 +24,6 @@
   "ShowHandle": false,
   "TrueCutOffsets": true,
   "CountArcs": true,
-  "CountChains": true
+  "CountChains": true,
+  "ShowSliceCounts": true
 }

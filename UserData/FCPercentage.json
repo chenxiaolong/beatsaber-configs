@@ -36,6 +36,40 @@
     },
     "DecimalPrecision": 2,
     "EnableScorePercentageDifference": true,
+    "ScorePercentageDiffModel": {
+      "value__": 0
+    },
+    "SplitPercentageUseSaberColorScheme": true,
+    "KeepTrailingZeros": false,
+    "Advanced": {
+      "ScorePrefixText": "FC : ",
+      "PercentagePrefixText": "FC : ",
+      "PercentageTotalPrefixText": "",
+      "PercentageSplitSaberAPrefixText": "",
+      "PercentageSplitSaberBPrefixText": "",
+      "DifferencePositiveColor": "#00B300",
+      "DifferenceNegativeColor": "#FF0000",
+      "ApplyColorsToScorePercentageModDifference": false
+    }
+  },
+  "MissionResultsSettings": {
+    "PercentageTotalMode": {
+      "value__": 1
+    },
+    "PercentageSplitMode": {
+      "value__": 2
+    },
+    "ScoreTotalMode": {
+      "value__": 1
+    },
+    "EnableLabel": {
+      "value__": 0
+    },
+    "DecimalPrecision": 2,
+    "EnableScorePercentageDifference": true,
+    "ScorePercentageDiffModel": {
+      "value__": 0
+    },
     "SplitPercentageUseSaberColorScheme": true,
     "KeepTrailingZeros": false,
     "Advanced": {
