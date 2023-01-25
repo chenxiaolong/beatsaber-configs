@@ -3,5 +3,7 @@
   "EnvironmentEnhancementsDisabled": false,
   "NoteColoringDisabled": false,
   "ForceZenWallsEnabled": false,
+  "CustomEnvironmentEnabled": false,
+  "CustomEnvironment": null,
   "PrintEnvironmentEnhancementDebug": false
 }

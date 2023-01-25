@@ -20,8 +20,12 @@
 # Game state
 /CampaignMapUnlocks.json
 /Logs/
+/UserData/BeatLeader/LeaderboardsCache
 /UserData/BeatLeader/Replays/
 /UserData/favoriteSongs.cfg
+/UserData/EasyOffset/Cache/
+/UserData/LastPlayedDates.json.dat
+/UserData/LeaderboardCore.json
 /UserData/PPCounter/
 /UserData/reviewedSongs.json
 /UserData/Saber Factory/*/

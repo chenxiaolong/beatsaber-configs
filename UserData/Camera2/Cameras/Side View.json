@@ -20,6 +20,7 @@
   "renderScale": 1.3,
   "orthographic": false,
   "farZ": 6.0,
+  "nearZ": 0.1,
   "viewRect": {
     "x": 0.859,
     "y": 0.0,

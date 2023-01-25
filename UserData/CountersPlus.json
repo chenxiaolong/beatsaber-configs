@@ -3,7 +3,7 @@
   "HideCombo": false,
   "HideMultiplier": false,
   "HideMultiplayerRank": false,
-  "ComboOffset": 0.2,
+  "ComboOffset": 0.4,
   "MultiplierOffset": 0.4,
   "ItalicText": false,
   "AprilFoolsTomfoolery": true,
@@ -54,9 +54,9 @@
     "CanvasID": -1
   },
   "ScoreConfig": {
-    "Enabled": false,
+    "Enabled": true,
     "Position": "BelowCombo",
-    "Distance": 1,
+    "Distance": 0,
     "Mode": "Original",
     "DecimalPrecision": 2,
     "DisplayRank": true,
@@ -94,11 +94,11 @@
   "CutConfig": {
     "Enabled": true,
     "Position": "BelowCombo",
-    "Distance": 2,
+    "Distance": 1,
     "SeparateSaberCounts": true,
     "SeparateCutValues": true,
-    "AveragePrecision": 1,
-    "IncludeArcs": false,
+    "AveragePrecision": 2,
+    "IncludeArcs": true,
     "IncludeChains": false,
     "CanvasID": -1
   },

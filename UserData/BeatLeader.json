@@ -1,7 +1,33 @@
 {
   "ConfigVersion": "1.0",
   "Enabled": true,
-  "ScoresContext": {
-    "value__": 1
-  }
+  "ScoresContext": "Modifiers",
+  "LeaderboardTableMask": "Username, Modifiers, Accuracy, PerformancePoints, Score",
+  "ReplayerSettings": {
+    "AutoHideUI": false,
+    "LoadPlayerEnvironment": false,
+    "ExitReplayAutomatically": true,
+    "ShowHead": false,
+    "ShowLeftSaber": true,
+    "ShowRightSaber": true,
+    "ShowWatermark": true,
+    "ShowTimelineMisses": true,
+    "ShowTimelineBombs": true,
+    "ShowTimelinePauses": true,
+    "MaxCameraFOV": 110,
+    "MinCameraFOV": 70,
+    "CameraFOV": 90,
+    "FPFCCameraView": "PlayerView",
+    "VRCameraView": "BehindView",
+    "Shortcuts": {
+      "LayoutEditorPartialModeHotkey": "H",
+      "HideCursorHotkey": "C",
+      "PauseHotkey": "Space",
+      "RewindForwardHotkey": "RightArrow",
+      "RewindBackwardHotkey": "LeftArrow",
+      "LayoutEditorAntiSnapHotkey": "LeftShift"
+    },
+    "ActualCameraView": "BehindView"
+  },
+  "EnableReplayCaching": false
 }

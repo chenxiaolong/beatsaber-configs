@@ -1,7 +1,9 @@
 {
   "returnToBssFromSolo": false,
   "smallerFontSize": false,
+  "loadSongPreviews": true,
   "downloadUrlOverride": "",
   "coverUrlOverride": "",
+  "previewUrlOverride": "",
   "apiUrlOverride": ""
 }
