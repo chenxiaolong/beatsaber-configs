@@ -1,6 +1,6 @@
 {
   "ChromaEventsDisabled": false,
-  "EnvironmentEnhancementsDisabled": false,
+  "EnvironmentEnhancementsDisabled": true,
   "NoteColoringDisabled": false,
   "ForceZenWallsEnabled": false,
   "CustomEnvironmentEnabled": false,

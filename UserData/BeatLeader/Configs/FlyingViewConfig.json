@@ -3,5 +3,11 @@
   "Sensitivity": {
     "x": 0.5,
     "y": 0.5
-  }
+  },
+  "VRPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "VRRotation": 0.0
 }

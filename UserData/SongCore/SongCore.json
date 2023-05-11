@@ -1,5 +1,7 @@
 {
-  "CustomSongColors": true,
+  "CustomSongNoteColors": false,
+  "CustomSongObstacleColors": false,
+  "CustomSongEnvironmentColors": false,
   "CustomSongPlatforms": true,
   "DisplayDiffLabels": true,
   "ForceLongPreviews": false

@@ -11,14 +11,14 @@
   "ControllerType": "None",
   "UseFreeHand": true,
   "LeftSaberPivotPosition": {
-    "x": -2.7,
+    "x": -3.000001,
     "y": 0.3,
     "z": -14.5
   },
   "LeftSaberRotationEuler": {
-    "x": 17.00001,
-    "y": 5.799992,
-    "z": -0.000003459538
+    "x": 18.99999,
+    "y": 5.799984,
+    "z": -0.000003950488
   },
   "LeftSaberZOffset": 17.0,
   "LeftSaberHasReference": false,
@@ -29,14 +29,14 @@
     "w": 1.0
   },
   "RightSaberPivotPosition": {
-    "x": 2.7,
+    "x": 3.000001,
     "y": 0.3,
     "z": -14.5
   },
   "RightSaberRotationEuler": {
-    "x": 17.0,
+    "x": 19.0,
     "y": -5.799988,
-    "z": 0.00000390593
+    "z": 0.000003386132
   },
   "RightSaberZOffset": 17.0,
   "RightSaberHasReference": false,

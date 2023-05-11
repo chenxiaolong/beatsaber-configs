@@ -1,12 +1,18 @@
 {
   "ConfigVersion": "1.0",
-  "Enabled": true,
-  "ScoresContext": "Modifiers",
-  "LeaderboardTableMask": "Username, Modifiers, Accuracy, PerformancePoints, Score",
+  "LastSessionModVersion": "0.7.1",
+  "InternalReplayerCameraSettings": {
+    "VRCameraView": "BehindView",
+    "FpfcCameraView": "PlayerView",
+    "MaxCameraFOV": 110,
+    "MinCameraFOV": 70,
+    "CameraFOV": 90
+  },
   "ReplayerSettings": {
     "AutoHideUI": false,
-    "LoadPlayerEnvironment": false,
     "ExitReplayAutomatically": true,
+    "LoadPlayerEnvironment": false,
+    "LoadPlayerJumpDistance": false,
     "ShowHead": false,
     "ShowLeftSaber": true,
     "ShowRightSaber": true,
@@ -14,11 +20,6 @@
     "ShowTimelineMisses": true,
     "ShowTimelineBombs": true,
     "ShowTimelinePauses": true,
-    "MaxCameraFOV": 110,
-    "MinCameraFOV": 70,
-    "CameraFOV": 90,
-    "FPFCCameraView": "PlayerView",
-    "VRCameraView": "BehindView",
     "Shortcuts": {
       "LayoutEditorPartialModeHotkey": "H",
       "HideCursorHotkey": "C",
@@ -26,8 +27,10 @@
       "RewindForwardHotkey": "RightArrow",
       "RewindBackwardHotkey": "LeftArrow",
       "LayoutEditorAntiSnapHotkey": "LeftShift"
-    },
-    "ActualCameraView": "BehindView"
+    }
   },
+  "Enabled": true,
+  "ScoresContext": "Modifiers",
+  "LeaderboardTableMask": "Username, Modifiers, Accuracy, PerformancePoints, Score",
   "EnableReplayCaching": false
 }

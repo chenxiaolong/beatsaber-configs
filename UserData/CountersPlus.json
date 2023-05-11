@@ -6,7 +6,7 @@
   "ComboOffset": 0.4,
   "MultiplierOffset": 0.4,
   "ItalicText": false,
-  "AprilFoolsTomfoolery": true,
+  "AprilFoolsTomfoolery": false,
   "HUDConfig": {
     "MainCanvasSettings": {
       "Name": "Main",
@@ -112,7 +112,7 @@
   "NotesLeftConfig": {
     "Enabled": true,
     "Position": "BelowMultiplier",
-    "Distance": 1,
+    "Distance": 2,
     "LabelAboveCount": false,
     "CanvasID": -1
   },
@@ -151,6 +151,18 @@
     "FC Percentage": {
       "Enabled": true,
       "Position": "BelowMultiplier",
+      "Distance": 0,
+      "CanvasID": -1
+    },
+    "PBOT": {
+      "Enabled": true,
+      "Position": "BelowMultiplier",
+      "Distance": 1,
+      "CanvasID": -1
+    },
+    "PPPredictor": {
+      "Enabled": true,
+      "Position": "AboveMultiplier",
       "Distance": 0,
       "CanvasID": -1
     }

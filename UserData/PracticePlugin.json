@@ -1,5 +1,7 @@
 {
   "StartWithFullEnergy": false,
   "ShowTimeFailed": true,
-  "AdjustNJSWithSpeed": false
+  "AdjustNJSWithSpeed": false,
+  "EnableGC": false,
+  "DisablePitchCorrection": false
 }

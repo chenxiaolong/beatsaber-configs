@@ -5,6 +5,7 @@
 *.pdb
 
 # Game files
+/.DepotDownloader/
 /Beat Saber_Data/
 /DLC/
 /IPA/
@@ -26,7 +27,9 @@
 /UserData/EasyOffset/Cache/
 /UserData/LastPlayedDates.json.dat
 /UserData/LeaderboardCore.json
+/UserData/PBOT/
 /UserData/PPCounter/
+/UserData/PPPredictorProfileInfo.json
 /UserData/reviewedSongs.json
 /UserData/Saber Factory/*/
 /UserData/SaberFactory/
@@ -36,6 +39,7 @@
 /UserData/SongDetailsCache.*
 /UserData/SongPlayData.bak
 /UserData/SongPlayData.json
+/UserData/SongRankedBadge/
 /UserData/SoundReplacer/
 /UserData/votedSongs.json
 

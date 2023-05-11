@@ -14,6 +14,8 @@
   "ControlTrailWithThumbstick": true,
   "SaberAudioVolumeMultiplier": 1.0,
   "SpecialBackground": true,
+  "ListCellColor0": "#0C78F2",
+  "ListCellColor1": "#DF166F",
   "ReloadOnSaberUpdate": false,
   "SwingSoundVolume": 1.0,
   "EnableCustomBurnmarks": true,
