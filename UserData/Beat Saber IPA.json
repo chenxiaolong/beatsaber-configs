@@ -9,13 +9,16 @@
     "HideMessagesForPerformance": true,
     "HideLogThreshold": 512,
     "ShowTrace": false,
-    "SyncLogging": false
+    "SyncLogging": false,
+    "DarkenMessages": false
   },
   "AntiMalware": {
     "UseIfAvailable": true,
     "RunPartialThreatCode": false
   },
   "YeetMods": true,
+  "WriteLogs": true,
+  "ResetGameAssembliesOnVersionChange": true,
   "GameAssemblies": [
     "Main.dll",
     "Core.dll",
@@ -25,7 +28,7 @@
     "VRUI.dll",
     "BeatmapCore.dll",
     "GameplayCore.dll",
-    "HMLibAttributes.dll"
-  ],
-  "LastGameVersion": "1.29.1_4575554838"
+    "HMLibAttributes.dll",
+    "BeatmapEditor3D.dll"
+  ]
 }

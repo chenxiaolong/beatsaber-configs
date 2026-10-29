@@ -49,12 +49,13 @@
   },
   "PostProcessing": {
     "transparencyThreshold": 50.0,
+    "shaders": [],
     "forceDepthTexture": false
   },
   "targetPos": {
     "x": 2.959,
     "y": 1.27,
-    "z": 0.0
+    "z": 0.75
   },
   "targetRot": {
     "x": 0.0,

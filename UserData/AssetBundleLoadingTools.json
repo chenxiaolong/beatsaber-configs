@@ -1,0 +1,7 @@
+{
+  "ShaderDebugging": true,
+  "DownloadNewBundles": true,
+  "ShowUnsupportedShaders": false,
+  "EnableMultiPassRendering": true,
+  "ShowMultiPassModal": true
+}

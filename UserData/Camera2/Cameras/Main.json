@@ -51,6 +51,7 @@
   },
   "PostProcessing": {
     "transparencyThreshold": 0.0,
+    "shaders": [],
     "forceDepthTexture": false
   },
   "targetPos": {

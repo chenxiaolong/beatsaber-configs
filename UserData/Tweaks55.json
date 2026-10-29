@@ -30,15 +30,14 @@
   "disableCutParticles": false,
   "disableBombExplosion": false,
   "disableHealthWarning": false,
-  "basegameFulltextSearch": false,
   "keepGameSettingsOnCancel": false,
   "scrollSpeedMultiplier": 1.0,
   "disableFakeWallBloom": false,
   "disableBeatLines": false,
   "disableCameraNoise": false,
   "disableRawScore": false,
-  "enableCustomRumble": false,
-  "cutRumbleStrength": 0.075,
-  "rumbleChainElementsStrength": 1.0,
-  "rumbleArcsStrength": 1.0
+  "enableCustomRumble": true,
+  "cutRumbleStrength": 0.65,
+  "rumbleChainElementsStrength": 0.65,
+  "rumbleArcsStrength": 0.65
 }

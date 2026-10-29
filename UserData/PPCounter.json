@@ -1,4 +1,11 @@
 {
+  "showIcons": false,
+  "scoreSaberEnabled": true,
+  "beatLeaderEnabled": false,
+  "accSaberEnabled": false,
+  "preferredOrder": 123,
+  "numCounters": 3,
+  "maxCounters": 5,
   "decimalPrecision": 2,
   "relativeGain": false,
   "relativeGainInline": false,

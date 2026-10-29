@@ -4,5 +4,8 @@
   "CustomSongEnvironmentColors": false,
   "CustomSongPlatforms": true,
   "DisplayDiffLabels": true,
-  "ForceLongPreviews": false
+  "DisplayCustomCharacteristics": true,
+  "ForceLongPreviews": false,
+  "DisableRotationSpawnLinesOverride": false,
+  "DisableOneSaberOverride": false
 }

@@ -1,6 +1,6 @@
 {
   "ConfigVersion": "1.0",
-  "LastSessionModVersion": "0.7.1",
+  "LastSessionModVersion": "0.9.33",
   "InternalReplayerCameraSettings": {
     "VRCameraView": "BehindView",
     "FpfcCameraView": "PlayerView",
@@ -13,6 +13,7 @@
     "ExitReplayAutomatically": true,
     "LoadPlayerEnvironment": false,
     "LoadPlayerJumpDistance": false,
+    "IgnoreModifiers": false,
     "ShowHead": false,
     "ShowLeftSaber": true,
     "ShowRightSaber": true,
@@ -30,7 +31,17 @@
     }
   },
   "Enabled": true,
-  "ScoresContext": "Modifiers",
-  "LeaderboardTableMask": "Username, Modifiers, Accuracy, PerformancePoints, Score",
-  "EnableReplayCaching": false
+  "NoticeboardEnabled": true,
+  "MenuButtonEnabled": true,
+  "MainServer": "COM_DOMAIN",
+  "ScoresContext": 0,
+  "LeaderboardTableMask": "Country, Avatar, Username, Modifiers, Accuracy, PerformancePoints, Score, Mistakes, Time, Pauses",
+  "LeaderboardDisplaySettings": {
+    "ClanCaptureDisplay": true
+  },
+  "EnableReplayCaching": false,
+  "OverrideOldReplays": true,
+  "SaveLocalReplays": true,
+  "ReplaySavingOptions": "Exit, Fail, ZeroScore",
+  "SelectedLanguage": "GameDefault"
 }

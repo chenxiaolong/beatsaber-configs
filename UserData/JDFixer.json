@@ -5,7 +5,7 @@
   "maxJumpDistance": 35,
   "use_jd_pref": false,
   "preferredValues": [],
-  "reactionTime": 449.0,
+  "reactionTime": 404.0,
   "minReactionTime": 200,
   "maxReactionTime": 2000,
   "use_rt_pref": false,

@@ -1,4 +1,9 @@
 {
   "PinnedMods": [],
-  "HiddenTabs": []
+  "HiddenTabs": [
+    "Custom Sabers",
+    "Camera2",
+    "PPCounter"
+  ],
+  "DisableThumbstickScroll": false
 }

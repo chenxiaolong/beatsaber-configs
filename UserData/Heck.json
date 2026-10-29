@@ -1,0 +1,11 @@
+{
+  "ReLoader": {
+    "JumpToSavedTime": "Space",
+    "Reload": "Space",
+    "ReloadOnRestart": false,
+    "SaveTime": "LeftControl",
+    "ScrubBackwards": "LeftArrow",
+    "ScrubForwards": "RightArrow",
+    "ScrubIncrement": 5.0
+  }
+}

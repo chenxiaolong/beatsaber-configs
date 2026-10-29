@@ -55,8 +55,8 @@
   },
   "ScoreConfig": {
     "Enabled": true,
-    "Position": "BelowCombo",
-    "Distance": 0,
+    "Position": "BelowMultiplier",
+    "Distance": 1,
     "Mode": "Original",
     "DecimalPrecision": 2,
     "DisplayRank": true,
@@ -94,7 +94,7 @@
   "CutConfig": {
     "Enabled": true,
     "Position": "BelowCombo",
-    "Distance": 1,
+    "Distance": 0,
     "SeparateSaberCounts": true,
     "SeparateCutValues": true,
     "AveragePrecision": 2,
@@ -111,8 +111,8 @@
   },
   "NotesLeftConfig": {
     "Enabled": true,
-    "Position": "BelowMultiplier",
-    "Distance": 2,
+    "Position": "AboveCombo",
+    "Distance": -1,
     "LabelAboveCount": false,
     "CanvasID": -1
   },
@@ -157,7 +157,7 @@
     "PBOT": {
       "Enabled": true,
       "Position": "BelowMultiplier",
-      "Distance": 1,
+      "Distance": 2,
       "CanvasID": -1
     },
     "PPPredictor": {

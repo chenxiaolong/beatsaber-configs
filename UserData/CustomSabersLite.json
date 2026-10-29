@@ -1,0 +1,15 @@
+{
+  "Enabled": true,
+  "CurrentlySelectedSaber": "5bffb36ac7ff925643de6a3292811eef",
+  "CurrentlySelectedTrail": "customTrail",
+  "DisableWhiteTrail": true,
+  "OverrideTrailDuration": false,
+  "TrailDuration": 1.0,
+  "OverrideTrailWidth": false,
+  "TrailWidth": 1.0,
+  "OverrideSaberLength": false,
+  "SaberLength": 1.0,
+  "OverrideSaberWidth": false,
+  "SaberWidth": 1.0,
+  "EnableCustomEvents": true
+}

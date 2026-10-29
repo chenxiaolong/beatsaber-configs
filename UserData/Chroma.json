@@ -1,9 +1,11 @@
 {
-  "ChromaEventsDisabled": false,
-  "EnvironmentEnhancementsDisabled": true,
+  "ForceMapEnvironmentWhenChroma": false,
+  "ForceMapEnvironmentWhenV3": false,
+  "PrintEnvironmentEnhancementDebug": false,
+  "ChromaEventsDisabled": true,
+  "EnvironmentEnhancementsDisabled": false,
   "NoteColoringDisabled": false,
   "ForceZenWallsEnabled": false,
   "CustomEnvironmentEnabled": false,
-  "CustomEnvironment": null,
-  "PrintEnvironmentEnhancementDebug": false
+  "CustomEnvironment": null
 }

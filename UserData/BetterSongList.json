@@ -1,19 +1,18 @@
 {
   "SettingsSeenInVersion": "0.3.0.0",
   "SortAsc": false,
-  "LastSort": "Download Date",
+  "LastSort": "BeatSaver Date",
   "LastFilter": "All",
-  "LastSong": "custom_level_AA904B8F86D9A907A1EF514B8514BFC56862D35C",
+  "LastSong": "custom_level_E69EEA3EAB3F3967E308916F941402E08BDCA822",
   "LastCategory": "All",
-  "LastPack": "BSMG's Fifth Anniversary Music Pack",
+  "LastPack": "Original Soundtrack Vol. 1",
   "AllowWipDelete": false,
   "AutoFilterUnowned": true,
-  "ShowWarningIfMapHasCrouchWallsBecauseMappersThinkSprinklingThemInRandomlyIsFun": true,
   "ClearFiltersOnPlaylistSelect": true,
   "ModBasegameSearch": true,
-  "ShowMapJDInsteadOfOffset": true,
   "ExtendSongsScrollbar": true,
   "AccuracyMultiplier": 1.0,
   "EnableAlphabetScrollbar": true,
-  "AllowPluginSortsAndFilters": true
+  "AllowPluginSortsAndFilters": true,
+  "PreferredLeaderboard": "ScoreSaber"
 }
